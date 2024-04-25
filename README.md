@@ -1,1 +1,1 @@
-Simple memory game of programmings languages with countdown and number of attempts
+Simple memory game of programmings languages with countdown and number of moves.
